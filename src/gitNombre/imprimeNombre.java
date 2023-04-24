@@ -7,7 +7,7 @@ public class imprimeNombre {
 
 		System.out.println("César Novelo");
 		
-		#esto es un comentario
+		//esto es un comentario
 	}
 
 }
